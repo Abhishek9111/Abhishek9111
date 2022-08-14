@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9111&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9111" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue/Nuxt**
 
-- 💬 Ask me about **React.Js, Node.Js, AWS**
+- 💬 Ask me about **React.Js, Node.Js, AWS, React Native**
 
 - 📫 How to reach me **kapoorabhishek567@gmail.com**
 

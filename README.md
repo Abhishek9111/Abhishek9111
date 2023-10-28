@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9111&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9111" /> </p>
 
-- 🌱 I’m currently learning **Vue/Nuxt**
+- 🌱 I’m currently learning **Laravel/Php**
 
 - 💬 Ask me about **React.Js, Node.Js, AWS, React Native**
 
